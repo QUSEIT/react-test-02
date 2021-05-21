@@ -14,7 +14,7 @@
 
 参考: sanp/ 目录中的截屏
 
-在理解 ShopifyPing 服务基础上完成:
+在理解 [Shopify Ping on desktop](https://shopifyping.com/) 服务基础上完成:
 
 - 一个 .js, 插入到任何一个页面合适位置后:
     + 即在右下角出现 `chat with us!` 按钮
